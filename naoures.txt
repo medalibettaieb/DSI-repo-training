@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 coucou :) new
 =======
 new test
@@ -6,4 +7,14 @@ new test
 =======
 bonjour
 bonsoir
+=======
+new@	
+	
+		
+					test
+
+=======
+bonjour
+hhhhhhhhhhhhhhhhhhhhhhhhh
+>>>>>>> 9b81d3aa6d38a861191b9021fa95402071064855
 >>>>>>> 12034aa8e1b6bf51088b87f4fd07728f7339f402
