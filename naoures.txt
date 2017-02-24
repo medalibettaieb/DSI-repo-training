@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 new@	
 	
 		
 					test
 
+=======
+bonjour
+>>>>>>> 12034aa8e1b6bf51088b87f4fd07728f7339f402
