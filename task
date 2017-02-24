@@ -1,2 +1,12 @@
-hello
-aaaaaaaa
+Class User{
+private $nom;
+private $prenom;
+private $email;
+
+public function getNom(){
+return $this->nom;
+}
+public function setNom($nom){
+ $this->nom = $nom;
+}
+}
