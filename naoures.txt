@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+hello amina
 modif
 jjjjjgestion des conflits
 hello wael
+=======
+hello rami
+>>>>>>> d645b0ad69a476f82432a411fd10d16e31218e02
