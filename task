@@ -1,3 +1,4 @@
+
 Class User{
 private $nom;
 private $prenom;
@@ -10,3 +11,4 @@ public function setNom($nom){
  $this->nom = $nom;
 }
 }
+
