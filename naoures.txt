@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-coucou :) new
-=======
-new test
-:) :) :)
-=======
-bonjour
-bonsoir
-gestion des conflits
-
-
-	
-		
-
-
-
-
-
->>>>>>> 
-
+modif
+jjjjjgestion des conflits
+hello wael
